@@ -1,0 +1,54 @@
+﻿img.curtain
+{
+    height: 650px;
+    z-index: 99;
+    
+}
+img.cLeft
+{
+    position: absolute;
+    left:0px;
+    
+}
+img.cRight
+{
+    position: absolute;
+    right:0px;
+}
+.main
+{
+    width: 1310px;
+    height: 650px;
+    position:relative;
+    overflow:hidden;    
+    background:#BAEC45;
+    left:20px;
+}
+.content
+{
+    position: relative;
+    width: 400px;
+    height: 500px;
+    margin: 80px auto;
+    display: none;
+}
+img.imgcontent
+{   
+    width: 400px;
+    height: 500px;
+
+}
+p
+{
+    font-family: Cursive;
+    font-size:10px;
+    color: #BAEC45;
+}
+.clickme p
+{
+    position: absolute;
+    bottom: 0px;
+    z-index: 100;
+    font-family: Cursive;
+    font-size: 20px; 
+}

@@ -1,0 +1,27 @@
+﻿h2,h5,span
+{   
+	color: #686868;	
+}
+#btnSubmit
+{
+    height:30px;
+    width:100px;
+    float:left;    
+    border:1px solid black;    
+    border-radius:1px;
+    margin-top:10px; 
+    font-color: #686868;	   
+}
+#input
+{
+    height:80px;
+    width:400px;
+    margin-top:50px;
+    border:1px solid black;
+    padding:5px;
+    
+}
+#output
+{
+    margin:5px;
+}

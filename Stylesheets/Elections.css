@@ -1,0 +1,91 @@
+﻿#p1
+{
+    height:400px;
+    width:160px;
+    float:left;    
+    border:1px solid black;
+    border-radius:5px;
+    margin:40px;
+    margin-top:5px;
+    margin-left:50px;
+}
+#p2
+{
+    height:400px;
+    width:200px;
+    float:left;    
+    border:1px solid black;
+    border-radius:5px;
+    margin:40px;
+     margin-top:5px;
+     margin-right:150px;
+}
+span
+{
+    text-align:center;
+    color:Red;
+}
+h1
+{
+   
+	color: #686868;
+	text-align:center;
+
+}
+.button
+{
+    height:30px;
+    width:100px;
+    float:left;    
+    border:1px solid white;
+    background-color:Red;
+    border-radius:0px;
+    
+}
+
+
+.cndt table,th,td
+{
+    border: 1px solid;
+    height: 60px;
+    width: 400px;
+    border-radius:3px;   
+     
+}
+.cndt table,td
+{
+    background-color: white;
+    color:black;
+}
+ 
+table tr td.VOTE2,td.VOTE1,td.NOTA{
+  background: #2a81d7;
+  background: -moz-linear-gradient(0% 100% 90deg, #206bcb, #3e9ee5);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#3e9ee5), to(#206bcb));
+  border-top: 1px solid #2a73a6;
+  border-right: 1px solid #165899;
+  border-bottom: 1px solid #07428f;
+  border-left: 1px solid #165899;
+  border-color:Red;
+  border-radius:5px;
+  -moz-box-shadow: inset 0 1px 0 0 #62b1e9;
+  -webkit-box-shadow: inset 0 1px 0 0 #62b1e9;
+  cursor: pointer;
+  text-shadow: 0 -1px 1px #1d62ab;
+}
+
+table tr td.Result{
+  background: #2a81d7;
+  background: -moz-linear-gradient(0% 100% 90deg, #BACD00, #BACD00);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#BACD00), to(#BACD00));
+  border-top: 1px solid #2a73a6;
+  border-right: 1px solid #165899;
+  border-bottom: 1px solid #07428f;
+  border-left: 1px solid #165899;
+   border-color:Red;
+   border-radius:5px;
+  -moz-box-shadow: inset 0 1px 0 0 #62b1e9;
+  -webkit-box-shadow: inset 0 1px 0 0 #62b1e9;
+  cursor: pointer;
+  text-shadow: 0 -1px 1px #1d62ab;
+}
